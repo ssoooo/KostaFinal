@@ -7,6 +7,7 @@ public class MessageBeanEng implements MessageBean{
 		System.out.println("hello111111"+name);
 		System.out.println("123123");
 		System.out.println("32");
+		System.out.println("ssibal");
 		
 	}
 
